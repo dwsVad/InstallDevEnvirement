@@ -1,3 +1,4 @@
+#powershell -noexit "& ""C:\Users\Vad\PhpstormProjects\TimFamily\install_phpStorm.ps1""" Command for run script
 #Set-ExecutionPolicy RemoteSigned -- это разрешает выполнять скрипты. Нужно выполнить отдельно в консоли повершела
 
 #Set Paths
