@@ -1,4 +1,4 @@
-#Set-ExecutionPolicy RemoteSigned -- это разрешает выполнять скрипты. Нужно выполнить отдельно в консоли повершела
+#Set-ExecutionPolicy RemoteSigned -- СЌС‚Рѕ СЂР°Р·СЂРµС€Р°РµС‚ РІС‹РїРѕР»РЅСЏС‚СЊ СЃРєСЂРёРїС‚С‹. РќСѓР¶РЅРѕ РІС‹РїРѕР»РЅРёС‚СЊ РѕС‚РґРµР»СЊРЅРѕ РІ РєРѕРЅСЃРѕР»Рё РїРѕРІРµСЂС€РµР»Р°
 
 #Set Paths
 $SourcePHPHttp = "http://windows.php.net/downloads/releases/php-7.0.9-Win32-VC14-x64.zip"
